@@ -77,16 +77,15 @@ Turns ambulances from transport into first-response care
 Supports ASHA workers with local-language guidance and follow-up
 Works in low-connectivity and flood-prone areas
 Gives planners a district-level view of health trends
-Tech Stack
 
-Update this section with what you actually used.
+Tech Stack
 
 Layer	Technology
 Frontend / Mobile	e.g., React Native / Flutter
 Backend	e.g., Node.js / FastAPI
-Database	e.g., PostgreSQL / SQLite (offline sync)
-AI / Voice	e.g., on-device speech recognition, rule-based protocol engine
-Data sources	e.g., IPHS standards, facility data, ra<h>AVYAKTHA</h>
+Database	 PostgreSQL / SQLite (offline sync)
+AI / Voice  on-device speech recognition, rule-based protocol engine
+Data sources	IPHS standards, facility data
 <p>Swasthya setu</p>
 Team Name : <h>AVYAKTHA</h>
 
