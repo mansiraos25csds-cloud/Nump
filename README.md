@@ -88,6 +88,6 @@ Database	e.g., PostgreSQL / SQLite (offline sync)
 AI / Voice	e.g., on-device speech recognition, rule-based protocol engine
 Data sources	e.g., IPHS standards, facility data, ra<h>AVYAKTHA</h>
 <p>Swasthya setu</p>
-<h>AVYAKTHA</h>
+Team Name : <h>AVYAKTHA</h>
 
 
